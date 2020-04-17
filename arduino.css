@@ -1,0 +1,17 @@
+body{
+	margin:0;
+	padding:0;
+	background-image:url(arduino_2.jpeg);
+	background-position:absolute;
+	background-size: cover;
+}
+p{
+	color:white;
+
+}
+ul{
+	color:white;
+}
+h2{
+	color:white;
+}
